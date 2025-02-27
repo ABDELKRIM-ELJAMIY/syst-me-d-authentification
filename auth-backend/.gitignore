@@ -1,0 +1,28 @@
+# Node.js modules
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Environment variables file
+.env
+
+# npm package-lock
+package-lock.json
+
+# MongoDB data files (if you're using a local MongoDB instance)
+*.db
+*.tgz
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files (if you're using specific IDEs like VSCode or JetBrains)
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.bak
